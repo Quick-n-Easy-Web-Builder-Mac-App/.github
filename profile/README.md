@@ -20,7 +20,7 @@ The software supports modern web standards including HTML5, CSS3, and JavaScript
 
 Optimized for **macOS Sonoma, Ventura, and Monterey**, it runs smoothly on both Intel and Apple Silicon Macs. The intuitive UI ensures that beginners can start designing immediately, while advanced users appreciate the flexibility and export options.
 
-![Quick 'n Easy Web Builder Interface](https://static.macupdate.com/screenshots/329773/m/quick-n-easy-web-builder-screenshot.png?v=1661676029)
+![Quick 'n Easy Web Builder Interface](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8KJjzCTJQzl7aGGwIsKk69NrspQJlWTszyg&s)
 
 ---
 
